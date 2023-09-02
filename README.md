@@ -1,4 +1,4 @@
-# ReconChain
+# ChainTalent
 
 This project is developed by CS731 Project Group , consisting of RamaChandra,Abhilash and Vatsal. ChainTalent is a decentralized platform that facilitates secure, transparent, and efficient communication between parties involved in a project.
 
