@@ -5,7 +5,6 @@ This project is developed by CS731 Project Group , consisting of RamaChandra,Abh
 ## Steps to Run the Project
 
 To run this project, follow the below steps:
-
 1. Install Node.js
 2. Clone or download this project from the repository.
 3. Delete `package.lock.json` files from the client and server folders.
@@ -28,7 +27,7 @@ To run this project, follow the below steps:
 
 ## Technologies Used
 
-ReconChain is developed using the following technologies:
+ChainTalent is developed using the following technologies:
 
 - React
 - Node.js
