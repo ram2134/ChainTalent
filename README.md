@@ -1,6 +1,6 @@
 # ReconChain
 
-This project is developed by CS731 Project Group 1, consisting of Ayush Kothiyal, Deepak Mathur, Vinay Agrawal, and Vamshikiran Morlawar. ReconChain is a decentralized platform that facilitates secure, transparent, and efficient communication between parties involved in a project.
+This project is developed by CS731 Project Group , consisting of RamaChandra,Abhilash and Vatsal. ChainTalent is a decentralized platform that facilitates secure, transparent, and efficient communication between parties involved in a project.
 
 ## Steps to Run the Project
 
